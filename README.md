@@ -1,4 +1,4 @@
-                                                                       # Terraform (HCL) 
+ # **Terraform (HCL) **
 
 ## Day 1: Getting Started with Terraform
 
