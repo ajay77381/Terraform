@@ -55,3 +55,4 @@ Then, you would configure Terraform to read the environment variable by adding t
 variable "aws_access_key_id" {
   source = "env://AWS_ACCESS_KEY_ID"
 }
+
